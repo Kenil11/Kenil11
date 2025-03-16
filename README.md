@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack engineer with a strong passion for building efficient and scalable solutions. I specialize in backend development, working with technologies like Node.js, Express, Deno, and Yarn, while also being proficient in AI/ML. On the frontend, I’m comfortable with HTML, CSS, React, SCSS, Tailwind, and more. Always eager to learn, improve, and tackle challenging projects!
+Full-stack engineer with a strong passion for building efficient and scalable solutions. I specialize in backend development and working with technologies like Node.js, Express, Deno, and Yarn, while also being proficient in AI/ML. On the frontend, I’m comfortable with HTML, CSS, React, SCSS, Tailwind, and more. Always eager to learn, improve, and tackle challenging projects!
 
 
 ## 🌐 Socials:
